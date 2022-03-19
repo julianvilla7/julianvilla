@@ -1,6 +1,6 @@
 > ### _Mi Proposito Es Servirle_
 <details>
-  -Juan 3:16
+  - Juan 3:16
   <br />
 16 »Pues Dios amó tanto al mundo que dio a su único Hijo, para que todo el que crea en él no se pierda, sino que tenga vida eterna.
 </details>
