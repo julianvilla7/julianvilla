@@ -2,7 +2,7 @@
 > ### _Mi Proposito Es Servirle_
 > <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 <details>
-  juan 3:16
+  juan 3:16  🙏🏽
   <br />
    16 »Pues Dios amó tanto al mundo que dio a su único Hijo, para que todo el que crea en él no se pierda, sino que tenga vida eterna.
 </details>
