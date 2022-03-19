@@ -2,7 +2,6 @@
 # Julián Villa 👨🏽‍💻
 
 ### Technology 🌐
-
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -22,7 +21,8 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
-## Cloud Computin ☁
+
+# Cloud Computing ☁
 
 <img src= "https://www.masip.es/wp-content/uploads/2020/08/aws-logo.png" width= '140px'/> <img src= "https://play-lh.googleusercontent.com/RyoQTmHnxsxPYabsETmWVXHtLorVh_yOO48hsdv2VmI-Uki4qt5c5vV1cicJODV56A4" width= '100px'/>
 <img src= "https://cesaromero.com/wp-content/uploads/2016/05/dialogflowes.jpg" width= '80px'/>
@@ -35,6 +35,8 @@
   <br />
    16 »Pues Dios amó tanto al mundo que dio a su único Hijo, para que todo el que crea en él no se pierda, sino que tenga vida eterna.
 </details>
+
+
 
 <!--
 **julianvilla7/julianvilla7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
