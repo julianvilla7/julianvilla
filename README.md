@@ -1,6 +1,7 @@
 > ### _Mi Proposito Es Servirle_
 <details>
-  - JESUS 
+  - JESUS
+  </details>
 ---
 # Julián Villa 👋
   
