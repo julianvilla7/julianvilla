@@ -1,4 +1,4 @@
-> *** importante
+> importante
 # Julián Villa 👋
 
 <!--
