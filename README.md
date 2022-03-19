@@ -31,9 +31,10 @@
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 ## Tools 🛠️
-<img src= "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width= '150px'/>
-<img src= "https://www.marketing-branding.com/wp-content/uploads/2019/03/google-cloud-1.png" width= '100px'/>
-<img src= "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width= '150px'/>## Operating Systems :sunny:
+<img src= "https://www.masip.es/wp-content/uploads/2020/08/aws-logo.png" width= '140px'/> <img src= "https://play-lh.googleusercontent.com/RyoQTmHnxsxPYabsETmWVXHtLorVh_yOO48hsdv2VmI-Uki4qt5c5vV1cicJODV56A4" width= '100px'/>
+<img src= "https://www.cloudbuilders.es/wp-content/uploads/2018/10/microsoft-azure-cloud-logo.png" width= '150px'/>
+<img src= "https://cesaromero.com/wp-content/uploads/2016/05/dialogflowes.jpg" width= '80px'/>
+## Operating Systems :sunny:
 
 
 <!--
