@@ -1,7 +1,7 @@
 > ### _Mi Proposito Es Servirle_
 <details>
-  -- JESUS
-  </details>
+  -Juan 3:16
+16 »Pues Dios amó tanto al mundo que dio[a] a su único Hijo, para que todo el que crea en él no se pierda, sino que tenga vida eterna.  </details>
 
 # Julián Villa 👋
   
