@@ -1,10 +1,10 @@
-# Hola, _Mi nombre es Julian Villa_
-### Desarrollador web Full-stack
+## Hola, _Mi nombre es Julian Villa_
+Desarrollador web Full-stack
 <div>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <div/>  
 
-## Technology 🌐
+### Technology 🌐
   
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -25,17 +25,21 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
   
-## Cloud Computing ☁
+### Cloud Computing ☁
   
 <img src= "https://www.masip.es/wp-content/uploads/2020/08/aws-logo.png" width= '90px'/> <img src= "https://internetrepublica.com/wp-content/uploads/2019/07/google-cloud.jpg" width= '90px'/>
 <img src= "https://planetachatbot.com/wp-content/uploads/2021/05/DIALOGFLOW.png" width= '130px'/>
-## System Operating
+  
+### System Operating
+  
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/iOS-000000?style=fv=ios&logoColor=white"> 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
 
-## Designer 🎨
+### Designer 🎨
   
 <img src="https://aleen42.github.io/badges/src/photoshop.svg"> <img src="https://aleen42.github.io/badges/src/illustrator.svg"> <img src="https://aleen42.github.io/badges/src/premiere.svg">
+  
+  
 
 
 
