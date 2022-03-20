@@ -26,6 +26,10 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/iOS-000000?style=fv=ios&logoColor=white"> 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
 
+## Designer 🎨
+<img src="https://aleen42.github.io/badges/src/photoshop.svg"> <img src="https://aleen42.github.io/badges/src/illustrator.svg"> <img src="https://aleen42.github.io/badges/src/premiere.svg">
+
+
 
 
 ### _Mi Proposito Es Servirle_
