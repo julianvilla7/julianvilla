@@ -1,6 +1,6 @@
 > <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
-# Technology 🌐
+## Technology 🌐
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -22,7 +22,7 @@
 ## Cloud Computing ☁
 <img src= "https://www.masip.es/wp-content/uploads/2020/08/aws-logo.png" width= '140px'/> <img src= "https://play-lh.googleusercontent.com/RyoQTmHnxsxPYabsETmWVXHtLorVh_yOO48hsdv2VmI-Uki4qt5c5vV1cicJODV56A4" width= '100px'/>
 <img src= "https://cesaromero.com/wp-content/uploads/2016/05/dialogflowes.jpg" width= '80px'/>
-### Operating Systems :desktop_computer:
+## Operating Systems :desktop_computer:
 > ### _Mi Proposito Es Servirle_
 
 <details>
