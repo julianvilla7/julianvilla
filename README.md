@@ -22,8 +22,8 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 ## Cloud Computing ☁
-<img src= "https://www.masip.es/wp-content/uploads/2020/08/aws-logo.png" width= '100px'/> <img src= "https://play-lh.googleusercontent.com/RyoQTmHnxsxPYabsETmWVXHtLorVh_yOO48hsdv2VmI-Uki4qt5c5vV1cicJODV56A4" width= '80px'/>
-<img src= "https://cesaromero.com/wp-content/uploads/2016/05/dialogflowes.jpg" width= '80px'/>
+<img src= "https://www.masip.es/wp-content/uploads/2020/08/aws-logo.png" width= '90px'/> <img src= "https://internetrepublica.com/wp-content/uploads/2019/07/google-cloud.jpg" width= '90px'/>
+<img src= "https://planetachatbot.com/wp-content/uploads/2021/05/DIALOGFLOW.png" width= '130px'/>
 ## System Operating
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/iOS-000000?style=fv=ios&logoColor=white"> 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
