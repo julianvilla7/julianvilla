@@ -22,16 +22,15 @@
 ## Cloud Computing ☁
 <img src= "https://www.masip.es/wp-content/uploads/2020/08/aws-logo.png" width= '100px'/> <img src= "https://play-lh.googleusercontent.com/RyoQTmHnxsxPYabsETmWVXHtLorVh_yOO48hsdv2VmI-Uki4qt5c5vV1cicJODV56A4" width= '80px'/>
 <img src= "https://cesaromero.com/wp-content/uploads/2016/05/dialogflowes.jpg" width= '80px'/>
-## Operating Systems :desktop_computer:
-> ### _Mi Proposito Es Servirle_
+
+
+### _Mi Proposito Es Servirle_
 
 <details>
   juan 3:16  🙏🏽
   <br />
    16 »Pues Dios amó tanto al mundo que dio a su único Hijo, para que todo el que crea en él no se pierda, sino que tenga vida eterna.
 </details>
-
-
 
 <!--
 **julianvilla7/julianvilla7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
