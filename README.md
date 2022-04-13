@@ -1,4 +1,4 @@
-## Hola, _Mi nombre es Julian Villa_
+## Hola, _Mi nombre es Julián Villa_
 Full stack Web Developer
 <div>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
